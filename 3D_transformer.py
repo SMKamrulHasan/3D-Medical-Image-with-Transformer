@@ -178,7 +178,7 @@ class Decoder(nn.Module):
 
 
 # -------------------------
-# Full UNETR (paper-like sizing)
+# Full UNETR 
 # -------------------------
 class UNETR_PaperLike(nn.Module):
     def __init__(self,
